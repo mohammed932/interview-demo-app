@@ -12,7 +12,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     super.initState();
-    _homeData.init(context: context);
+    _homeData.getUsers(context: context);
   }
 
   @override
