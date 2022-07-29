@@ -4,11 +4,6 @@ class HomeData {
   GenericCubit<List<UserModel>> usersCubit = GenericCubit([]);
   List<PostModel> posts = [];
 
-  init({required BuildContext context}) {
-    getUsers(context: context);
-    getPosts(context: context);
-  }
-
   getUsers({required BuildContext context}) async {
     try {
       usersCubit.onLoadingState();
