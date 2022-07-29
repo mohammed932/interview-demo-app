@@ -2,8 +2,7 @@ import 'package:base_flutter/shared/constants/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class AppBarSearchIcon extends StatelessWidget {
-  AppBarSearchIcon({Key? key, required this.onTap, this.showDropDown = false})
-      : super(key: key);
+  AppBarSearchIcon({required this.onTap, this.showDropDown = false});
   bool showDropDown;
   final VoidCallback onTap;
 
@@ -20,8 +19,7 @@ class AppBarSearchIcon extends StatelessWidget {
         padding: const EdgeInsets.all(8),
         margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
         width: 40,
-        child: Icon(showDropDown ? Icons.arrow_drop_down : Icons.search,
-            color: AppColors.secondaryLight),
+        child: Icon(showDropDown ? Icons.arrow_drop_down : Icons.search, color: AppColors.secondaryLight),
       ),
     );
   }
