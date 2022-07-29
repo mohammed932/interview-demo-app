@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: DefaultAppBar(title: 'Home'),
+      appBar: DefaultAppBar(title: 'Home', hideBackButton: true),
       body: BlocBuilder<GenericCubit<List<UserModel>>, GenericCubitState<List<UserModel>>>(
         bloc: _homeData.usersCubit,
         builder: (context, state) {
