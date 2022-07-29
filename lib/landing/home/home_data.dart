@@ -2,7 +2,6 @@ part of 'home.imports.dart';
 
 class HomeData {
   GenericCubit<List<UserModel>> usersCubit = GenericCubit([]);
-  List<PostModel> posts = [];
 
   getUsers({required BuildContext context}) async {
     try {
@@ -18,8 +17,7 @@ class HomeData {
 
   Future<List<PostModel>> getPosts({required BuildContext context}) async {
     try {
-      posts = await HomeRepo.getPosts(context: context);
-      return posts;
+      return await HomeRepo.getPosts(context: context);
     } catch (e) {
       rethrow;
     }
