@@ -1,0 +1,1 @@
+int drawable ic_livechat_active 0x7f080001

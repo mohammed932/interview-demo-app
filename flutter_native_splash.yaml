@@ -1,0 +1,13 @@
+flutter_native_splash:
+  background_image: assets/splash/splash.png
+  image: assets/splash/splash.png
+
+  android_12:
+    image: assets/splash/splash.png
+    background_image: assets/spl ash/splash.png
+
+  android: true
+  ios: true
+  web: false
+
+  fullscreen: true

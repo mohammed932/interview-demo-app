@@ -1,0 +1,116 @@
+[
+    {
+        "name": "MarriageContracts",
+        "title": "عقود الزواج",
+        "url": "/MicroApps/MarriageContracts/v0.0.30.zip",
+        "version": "0.0.30"
+    },
+    {
+        "name": "Dashboard",
+        "title": "لوحة المعلومات",
+        "url": "/MicroApps/Dashboard/v0.0.61.zip",
+        "version": "0.0.61"
+    },
+    {
+        "name": "RealEstates",
+        "title": "العقارات",
+        "url": "/MicroApps/RealEstates/v0.0.33.zip",
+        "version": "0.0.33"
+    },
+    {
+        "name": "JudicialLicences",
+        "title": "التراخيص",
+        "url": "/MicroApps/JudicialLicences/v0.0.42.zip",
+        "version": "0.0.42"
+    },
+    {
+        "name": "LawsuitsRequests",
+        "title": "القضاء",
+        "url": "/MicroApps/LawsuitsRequests/v0.0.40.zip",
+        "version": "0.0.40"
+    },
+    {
+        "name": "JuridicalCommunication",
+        "title": "التواصل العدلي",
+        "url": "/MicroApps/JuridicalCommunication/v0.0.16.zip",
+        "version": "0.0.16"
+    },
+    {
+        "name": "TerminationRequests",
+        "title": "الحالات الإجتماعية",
+        "url": "/MicroApps/TerminationRequests/v0.0.27.zip",
+        "version": "0.0.27"
+    },
+    {
+        "name": "Lawyer",
+        "title": "المحامين",
+        "url": "/MicroApps/Laywers/v0.0.28.zip",
+        "version": "0.0.28"
+    },
+    {
+        "name": "Transactions",
+        "title": "التحقق من معاملة",
+        "url": "/MicroApps/Transactions/v0.0.16.zip",
+        "version": "0.0.16"
+    },
+    {
+        "name": "Procurations",
+        "title": "الوكالات و الاقرارات",
+        "url": "/MicroApps/Procurations/v0.0.30.zip",
+        "version": "0.0.30"
+    },
+    {
+        "name": "Furijat",
+        "title": "التحقق من فريجت",
+        "url": "/MicroApps/Furijat/v0.0.11.zip",
+        "version": "0.0.11"
+    },
+    {
+        "name": "AppointmentRequests",
+        "title": "حجز موعد",
+        "url": "/MicroApps/AppointmentRequests/v0.0.16.zip",
+        "version": "0.0.16"
+    },
+    {
+        "name": "OrgAcc",
+        "title": "تفعيل منشأة",
+        "url": "/MicroApps/OrganizationActivation/v0.0.29.zip",
+        "version": "0.0.29"
+    },
+    {
+        "name": "MarriageOfficials",
+        "title": "مأذوني الأنكحة",
+        "url": "/MicroApps/MarriageOfficials/v0.0.34.zip",
+        "version": "0.0.34"
+    },
+    {
+        "name": "NotaryPublication",
+        "title": "كتابات العدل",
+        "url": "/MicroApps/NotaryPublication/v0.0.10.zip",
+        "version": "0.0.10"
+    },
+    {
+        "name": "IExecution",
+        "title": "التنفيذ",
+        "url": "/MicroApps/IExecution/v0.0.39.zip",
+        "version": "0.0.39"
+    },
+    {
+        "name": "ServicesProvidersGuide",
+        "title": "مقدمي خدمات التنفيذ",
+        "url": "/MicroApps/ServicesProvidersGuide/v0.0.3.zip",
+        "version": "0.0.3"
+    },
+    {
+        "name": "CourtsVerifications",
+        "title": "التحقق من صك الحكم",
+        "url": "/MicroApps/CourtsVerifications/v0.0.15.zip",
+        "version": "0.0.15"
+    },
+    {
+        "name": "Mortgages",
+        "title": "الرهون",
+        "url": "/MicroApps/Mortgages/v0.0.13.zip",
+        "version": "0.0.13"
+    }
+]

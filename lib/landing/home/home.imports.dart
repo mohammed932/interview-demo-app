@@ -1,0 +1,13 @@
+import 'package:base_flutter/landing/home/models/home_repo.dart';
+import 'package:base_flutter/landing/home/models/post/post_model.dart';
+import 'package:base_flutter/landing/home/models/user/user_model.dart';
+import 'package:base_flutter/landing/home/widgets/home_widgets.import.dart';
+import 'package:base_flutter/shared/blocs/generic_cubit/generic_cubit.dart';
+import 'package:base_flutter/shared/constants/app_colors.dart';
+import 'package:base_flutter/shared/utilities/utils_functions/loading_dialog.dart';
+import 'package:base_flutter/shared/widgets/custom_widgets/custom_widgets.dart';
+import 'package:base_flutter/shared/widgets/default_appbar.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+part 'home_data.dart';
+part 'home.dart';

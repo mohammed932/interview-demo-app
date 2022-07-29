@@ -1,0 +1,263 @@
+{
+    "mainMenu": [
+        {
+            "appName": "LawsuitsRequests",
+            "title": "القضاء",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "q_lawsuits",
+            "showInHomePage": true,
+            "isOrganizationActivation": true
+        },
+        {
+            "appName": "Procurations",
+            "title": "الوكالات",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "my-procurations",
+            "icon": "q_notary"
+        },
+        {
+            "appName": "Procurations",
+            "title": "الاقرارات",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "my-admissions",
+            "icon": "q_notary"
+        },
+        {
+            "appName": "TerminationRequests",
+            "title": "الحالات الاجتماعية",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "home",
+            "icon": "q_family"
+        },
+        {
+            "appName": "RealEstates",
+            "title": "العقارات",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "real-estates",
+            "icon": "q_realestates",
+            "isOrganizationActivation": true
+        },
+        {
+            "appName": "JudicialLicences",
+            "title": "التراخيص",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "home",
+            "icon": "q_licenses",
+            "showInHomePage": true
+        },
+        {
+            "appName": "AppointmentRequests",
+            "title": "المواعيد",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "ic_time_line",
+            "showInHomePage": true,
+            "haveSubMenu": true,
+            "subMenu": [
+                {
+                    "appName": "AppointmentRequests",
+                    "title": "زيارة مرفق عدلي",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": null,
+                    "icon": "q_licenses",
+                    "showInHomePage": true
+                },
+                {
+                    "appName": "NotaryPublication",
+                    "title": "كتابات العدل المتنقلة",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": null,
+                    "icon": "q_realestates"
+                }
+            ]
+        },
+        {
+            "appName": "MarriageOfficials",
+            "title": "مأذوني الأنكحة",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "home",
+            "icon": "q_licenses",
+            "showInHomePage": true
+        },
+        {
+            "appName": "IExecution",
+            "title": "التنفيذ",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "q_lawsuits",
+            "showInHomePage": true,
+            "isOrganizationActivation": true
+        },
+        {
+            "appName": "ServicesProvidersGuide",
+            "title": "دليل المرخصين",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "verification_legallicence",
+            "showInHomePage": true,
+            "haveSubMenu": true,
+            "subMenu": [
+                {
+                    "appName": "ServicesProvidersGuide",
+                    "title": "مقدمي خدمات التنفيذ",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": null,
+                    "icon": "q_licenses",
+                    "showInHomePage": true
+                },
+                {
+                    "appName": "MarriageOfficials",
+                    "title": "دليل مأذوني الانكحة",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": "officals-queries",
+                    "icon": "q_licenses",
+                    "showInHomePage": true
+                },
+                {
+                    "appName": "Lawyer",
+                    "title": "دليل المحامين الممارسين",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": "home",
+                    "icon": "q_licenses",
+                    "showInHomePage": true
+                }
+            ]
+        },
+        {
+            "appName": "Mortgages",
+            "title": "الرهون",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "home",
+            "icon": "q_licenses",
+            "showInHomePage": true
+        }
+    ],
+    "verificationMenu": [
+        {
+            "appName": "RealEstates",
+            "title": "التحقق من صك عقاري",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "verfication_realestae",
+            "showInHomePage": true
+        },
+        {
+            "appName": "MarriageContracts",
+            "title": "التحقق من عقد  زواج",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "q_terminations",
+            "showInHomePage": true
+        },
+        {
+            "appName": "JudicialLicences",
+            "title": "التحقق من ترخيص عدلي",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "verficationjudicallicense",
+            "showInHomePage": true
+        },
+        {
+            "appName": "Procurations",
+            "title": "التحقق من وكالة",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "CheckProcuations",
+            "icon": "q_notary",
+            "showInHomePage": true
+        },
+        {
+            "appName": "Procurations",
+            "title": "التحقق من إقرار",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "CheckAdmissionsPage",
+            "icon": "q_notary",
+            "showInHomePage": false
+        },
+        {
+            "appName": "Transactions",
+            "title": "التحقق من معاملة",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "q_transactions",
+            "showInHomePage": false
+        },
+        {
+            "appName": "Furijat",
+            "title": "التحقق من فواتير فرجت",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "verficationjudicallicense",
+            "showInHomePage": false
+        },
+        {
+            "appName": "TerminationRequests",
+            "title": "التحقق من حالة اجتماعية",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "q_family",
+            "showInHomePage": false
+        },
+        {
+            "appName": "CourtsVerifications",
+            "title": "التحقق من صك الحكم",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "q_family",
+            "showInHomePage": false
+        },
+        {
+            "appName": "Mortgages",
+            "title": "التحقق من رهن أعيان",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "q_licenses",
+            "showInHomePage": true
+        },
+        {
+            "appName": "ServicesProvidersGuide",
+            "title": "دليل المرخصين",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": null,
+            "icon": "verification_legallicence",
+            "showInHomePage": true,
+            "haveSubMenu": true,
+            "subMenu": [
+                {
+                    "appName": "ServicesProvidersGuide",
+                    "title": "مقدمي خدمات التنفيذ",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": null,
+                    "icon": "q_licenses",
+                    "showInHomePage": true
+                },
+                {
+                    "appName": "MarriageOfficials",
+                    "title": "دليل مأذوني الانكحة",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": "officals-queries",
+                    "icon": "q_licenses",
+                    "showInHomePage": true
+                },
+                {
+                    "appName": "Lawyer",
+                    "title": "دليل المحامين الممارسين",
+                    "description": "تعريف بسيط عن الخدمة",
+                    "route": "home",
+                    "icon": "q_licenses",
+                    "showInHomePage": true
+                }
+            ]
+        }
+    ],
+    "supportMenu": [
+        {
+            "appName": "JuridicalCommunication",
+            "title": "التواصل العدلي",
+            "description": "تعريف بسيط عن الخدمة",
+            "route": "home",
+            "icon": "ic_chat",
+            "showInHomePage": true
+        }
+    ]
+  }
